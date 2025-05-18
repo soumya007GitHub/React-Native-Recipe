@@ -2,6 +2,11 @@
 
 A simple and elegant **React Native** app that lets users browse and view recipes with images. Built using **React Navigation**, image display functionality, and basic in-memory data storage (without persistent storage).
 
+## 📷 Screenshots
+<img src="https://github.com/user-attachments/assets/19c5b4e7-ced2-41e7-8990-eec78a736d88" width="200" alt="Calculator Screenshot">
+<img src="https://github.com/user-attachments/assets/d78a280d-1d6c-49c8-a9a9-de51b9a71e38" width="200" alt="Calculator Screenshot">
+<img src="https://github.com/user-attachments/assets/27a6a3d2-720a-4471-bab5-ff411667a1d3" width="200" alt="Calculator Screenshot">
+
 ## 🚀 Features
 
 - 📱 **React Navigation** – Smooth transitions between different screens (Home, Details, Add Recipe).
